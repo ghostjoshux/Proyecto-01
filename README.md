@@ -10,3 +10,5 @@ Grupo 10-3 de Aplicaciones Moviles
 - Mysql
 
 ![Logo kotlin](imagenes/kotlin_logo.jpg)
+
+Esta informacion se agrego desde la casa
